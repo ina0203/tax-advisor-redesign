@@ -1,1 +1,7 @@
 
+dist/
+ ├─ index.html
+ ├─ assets/
+ │   ├─ index-DQ39F.js
+ │   ├─ style-KF93.css
+ │   └─ ...
