@@ -25,3 +25,10 @@ dist-ssr
 
 # Mobile app directory
 tax-advisor-mobile
+dist
+(기존 내용들...)
+
+# production
+node_modules
+dist
+
